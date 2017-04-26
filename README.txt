@@ -1,3 +1,4 @@
 pour l'activite j'ai juste ecrit vite fait des fichiers
 
-le fichier la présente la météo
+le fichier1 présente la météo
+le fichier2 présente la situation géographique
